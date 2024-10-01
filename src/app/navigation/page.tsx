@@ -1,7 +1,7 @@
 "use client";
 import Link from 'next/link';
 import Image from 'next/image';
-import umic_logo from 'src/app/public/aerove logo white-01 (1).png'
+import umic_logo from '../public/aerove logo white-01 (1).png'
 export default function Navbar() {
   // const router = useRouter();
   // const handleScrollToAchievements = (e: React.MouseEvent) => {

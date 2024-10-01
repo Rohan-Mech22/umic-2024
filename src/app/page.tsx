@@ -1,14 +1,14 @@
 import Navbar from './navigation/page';
 import Image from 'next/image';
-import hp from 'src/app/public/HP.jpg'
-import mothership from 'src/app/public/mothership.jpeg'
-import daugther from 'src/app/public/daugther.jpeg'
-import cuasc from 'src/app/public/cuasc.jpg'
-import icuas from 'src/app/public/ICUAS.jpg'
-import uas from 'src/app/public/UAS.jpg'
-import ri4rover from 'src/app/public/Ri4Rover.jpg'
-import robodrive from 'src/app/public/RoboDrive.png'
-import logo from 'src/app/public/logo.png'
+import hp from '../app/public/HP.jpg'
+import mothership from '../app/public/mothership.jpeg'
+import daugther from '../app/public/daugther.jpeg'
+import cuasc from '../app/public/cuasc.jpg'
+import icuas from '../app/public/ICUAS.jpg'
+import uas from '../app/public/UAS.jpg'
+import ri4rover from '../app/public/Ri4Rover.jpg'
+import robodrive from '../app/public/RoboDrive.png'
+import logo from '../app/public/logo.png'
 
 function MyApp() {
   return (
